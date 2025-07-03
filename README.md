@@ -19,7 +19,7 @@ This is a Dockerized Laravel application for managing tasks. Each task event (cr
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-org/laravel-task-manager.git
+git clone https://github.com/donyatorabi/DataGenerator.git
 cd laravel
 ```
 
